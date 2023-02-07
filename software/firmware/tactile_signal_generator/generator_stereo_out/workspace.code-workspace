@@ -1,0 +1,65 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../shared_libs"
+		},
+		{
+			"path": "../generator_shared_libs"
+		}
+	],
+	"settings": {
+		"C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, ColumnLimit: 100 }",
+		"files.associations": {
+			"string": "cpp",
+			"limits": "cpp",
+			"array": "cpp",
+			"vector": "cpp",
+			"__bit_reference": "cpp",
+			"__hash_table": "cpp",
+			"__split_buffer": "cpp",
+			"__tree": "cpp",
+			"deque": "cpp",
+			"hash_map": "cpp",
+			"filesystem": "cpp",
+			"initializer_list": "cpp",
+			"list": "cpp",
+			"map": "cpp",
+			"set": "cpp",
+			"string_view": "cpp",
+			"unordered_map": "cpp",
+			"iterator": "cpp"
+		},
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#5b5688",
+			"activityBar.activeBorder": "#332e49",
+			"activityBar.background": "#856cac",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#3c475f",
+			"activityBarBadge.foreground": "#e7e7e7",
+			"sash.hoverBorder": "#856cac",
+			"statusBar.background": "#856cac",
+			"statusBar.foreground": "#15202b",
+			"statusBarItem.hoverBackground": "#856cac",
+			"statusBarItem.remoteBackground": "#856cac",
+			"statusBarItem.remoteForeground": "#15202b",
+			"titleBar.activeBackground": "#856cac",
+			"titleBar.activeForeground": "#15202b",
+			"titleBar.inactiveBackground": "#856cac",
+			"titleBar.inactiveForeground": "#15202b99"
+		},
+		"conventionalCommits.scopes": [
+			"signal_generator_stereo",
+			"firmware"
+		],
+		"cSpell.words": [
+			"adsr",
+			"millis",
+			"retrigger",
+			"SENSINT"
+		]
+	}
+}
