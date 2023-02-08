@@ -51,7 +51,10 @@
 
 ### Built With
 
+* [Teensy](https://www.pjrc.com/teensy/) and [Teensy Audio Library](https://www.pjrc.com/teensy/td_libs_Audio.html)
 * [PlatformIO](https://platformio.org/)
+* [Fusion 360](https://www.autodesk.com/products/fusion-360)
+* [KiCad EDA](https://www.kicad.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
